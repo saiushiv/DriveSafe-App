@@ -18,4 +18,3 @@ The service writes all its activity in the folder called “Critical_Section” 
 
 Extra functions:
 To achieve all this initially it created spanning tree using message passing using TCP.
-
