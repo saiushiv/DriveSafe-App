@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Web-Programming
 Contains the codes written in : Javascript,JQuery, HTMl, Responsive CSS, PHP,AJAX
 =======
@@ -11,6 +12,13 @@ Implemented Raymond Token based Mutual Exclusion Algorithm on Distributed Linux 
 NOTE: THIS PROJECT WAS IMPLEMENTED IN A TEAM ENVIRONMENT.
 
 # Compile the main program MutexMain.java
+=======
+# Raymond-Protocol-for-Distributed-Systems
+Implemented Raymond Token based Mutual Exclusion Algorithms for Distributed Systems using Java.
+NOTE: THIS PROJECT WAS IMPLEMENTED IN A TEAM ENVIRONMENT.
+
+- Compile the main program MutexMain.java
+>>>>>>> 739ff2d1a7cd2381b41d8bbc178dde57bf9a2a1a
 > javac MutexMain.java
 -  Once the program is compiled it generates all the required class file.
 - Now run the launcher script:
@@ -25,4 +33,7 @@ The service writes all its activity in the folder called “Critical_Section” 
 
 Extra functions:
 To achieve all this initially it created spanning tree using message passing using TCP.
+<<<<<<< HEAD
 >>>>>>> 537090cb5cb6b0291425beeb47794a3ec8bf080b
+=======
+>>>>>>> 739ff2d1a7cd2381b41d8bbc178dde57bf9a2a1a
