@@ -13,3 +13,6 @@ The service writes all its activity in the folder called “Critical_Section” 
 - The file which we are interested to check for mutual exclusion property is “CS_Info.txt”.
 - Once all the nodes are finished executing their CSs, we can check its correctness by:
 > java UniqueLineReader
+
+Extra functions:
+To achieve all this initially it created spanning tree using message passing using TCP.
