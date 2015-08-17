@@ -2,8 +2,7 @@
 Implemented Raymond Token based Mutual Exclusion Algorithms for Distributed Systems using Java.
 NOTE: THIS PROJECT WAS IMPLEMENTED IN A TEAM ENVIRONMENT.
 
-# Compile the main program MutexMain.java
-
+- Compile the main program MutexMain.java
 > javac MutexMain.java
 -  Once the program is compiled it generates all the required class file.
 - Now run the launcher script:
