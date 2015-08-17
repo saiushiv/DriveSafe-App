@@ -1,17 +1,25 @@
+<<<<<<< HEAD
 
 # Raymond-Protocol-for-Distributed-Systems
 Implemented Raymond Token based Mutual Exclusion Algorithm on Distributed Linux systems.
 
+=======
+# Raymond-protocol-for-distributed-systems
+Implemented Raymond Token based Mutual Exclusion algorithm for distributed systems in Java
+>>>>>>> 37daec37493c1ced414cd979b8abc25685620d8d
 
 NOTE: THIS PROJECT WAS IMPLEMENTED IN A TEAM ENVIRONMENT.
 
 # Compile the main program MutexMain.java
+<<<<<<< HEAD
 =======
 # Raymond-Protocol-for-Distributed-Systems
 Implemented Raymond Token based Mutual Exclusion Algorithms for Distributed Systems using Java.
 NOTE: THIS PROJECT WAS IMPLEMENTED IN A TEAM ENVIRONMENT.
 
 - Compile the main program MutexMain.java
+=======
+>>>>>>> 37daec37493c1ced414cd979b8abc25685620d8d
 
 > javac MutexMain.java
 -  Once the program is compiled it generates all the required class file.
