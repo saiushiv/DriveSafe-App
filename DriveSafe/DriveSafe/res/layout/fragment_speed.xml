@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/and_main_bg" >
+
+    <Button
+        android:id="@+id/b911"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="9-1-1 Emergency" />
+
+    <Button
+        android:id="@+id/user1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/b911"
+        android:layout_alignRight="@+id/b911"
+        android:layout_below="@+id/b911"
+        android:layout_marginTop="30dp"
+        android:text="Mark" />
+
+    <Button
+        android:id="@+id/user3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/user2"
+        android:layout_alignRight="@+id/user2"
+        android:layout_below="@+id/user2"
+        android:layout_marginTop="36dp"
+        android:text="Sachin" />
+
+    <Button
+        android:id="@+id/user2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/user1"
+        android:layout_alignRight="@+id/user1"
+        android:layout_centerVertical="true"
+        android:text="Sai" />
+
+    <Button
+        android:id="@+id/user4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/user3"
+        android:layout_alignRight="@+id/user3"
+        android:layout_below="@+id/user3"
+        android:layout_marginTop="36dp"
+        android:text="Bharath" />
+
+</RelativeLayout>
