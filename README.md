@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Raymond-Protocol-for-Distributed-Systems
 Implemented Raymond Token based Mutual Exclusion Algorithm on Distributed Linux systems.
 
@@ -19,3 +20,7 @@ The service writes all its activity in the folder called “Critical_Section” 
 
 Extra functions:
 To achieve all this initially it created spanning tree using message passing using TCP.
+=======
+# DriveSafe-App
+This Repository holds all the files for this Android App
+>>>>>>> 5a0866c3aa940009a697c08d587525b870b22055
