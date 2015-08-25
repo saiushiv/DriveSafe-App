@@ -21,7 +21,7 @@ public class TabsPagerAdapter extends FragmentPagerAdapter {
             // Navigation activity
             return new DetailsFragment();
         case 2:
-            // Movies fragment activity
+            // SPEED-DIAL fragment activity
             return new SpeedFragment();
         }
  
